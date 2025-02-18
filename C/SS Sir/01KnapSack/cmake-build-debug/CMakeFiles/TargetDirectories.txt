@@ -1,0 +1,3 @@
+I:/2023/Subir/01KnapSack/cmake-build-debug/CMakeFiles/01KnapSack.dir
+I:/2023/Subir/01KnapSack/cmake-build-debug/CMakeFiles/edit_cache.dir
+I:/2023/Subir/01KnapSack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
